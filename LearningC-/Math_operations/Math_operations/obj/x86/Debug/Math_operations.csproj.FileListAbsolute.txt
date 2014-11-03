@@ -1,0 +1,4 @@
+C:\Users\Valery\Documents\Visual Studio 2010\Projects\Math_operations\Math_operations\bin\Debug\Math_operations.exe
+C:\Users\Valery\Documents\Visual Studio 2010\Projects\Math_operations\Math_operations\bin\Debug\Math_operations.pdb
+C:\Users\Valery\Documents\Visual Studio 2010\Projects\Math_operations\Math_operations\obj\x86\Debug\Math_operations.exe
+C:\Users\Valery\Documents\Visual Studio 2010\Projects\Math_operations\Math_operations\obj\x86\Debug\Math_operations.pdb
