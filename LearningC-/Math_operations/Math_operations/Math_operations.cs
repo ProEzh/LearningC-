@@ -10,16 +10,16 @@ namespace Math_operations
         static void Main(string[] args)
         {
             double resultOfAddition = Math.addition(2, 3);
-			Console.WriteLine(resultOfAddition);
+            Console.WriteLine(resultOfAddition);
 
-			double resultOfSubstraction = Math.subtraction(2, 3);
-			Console.WriteLine(resultOfSubstraction);
+            double resultOfSubstraction = Math.subtraction(2, 3);
+            Console.WriteLine(resultOfSubstraction);
 
             double resultOfMultiplication = Math.multiplication(2, 3);
-			Console.WriteLine(resultOfMultiplication);
+            Console.WriteLine(resultOfMultiplication);
 
             double resultOfDivision = Math.division(2, 3);
-			Console.WriteLine(resultOfDivision);
+            Console.WriteLine(resultOfDivision);
         }
     }
     static class Math
